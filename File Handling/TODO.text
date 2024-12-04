@@ -1,0 +1,65 @@
+1. Why File
+2. Use Case
+    - Reading and Writing Text Files
+    - CSV File Processing
+    - Log File Management
+    - Configuration Files
+    - Data Serialization
+    - Binary File Handling
+    - File Searching and Filtering
+    - Uploads and Downloads:
+    - Temporary File Storage
+    - File Compression and Decompression
+
+3. Create/Write File
+
+4. Reading from a File
+
+5. Renaming a File
+
+6. Delete
+
+7. Folder Creating
+
+8. Renaming a Directory
+
+9. Deleting a Directory
+
+10. How to make zip a Directory
+
+11. How to Make CSV File From List
+
+12. How to Read a CSV File
+
+
+13. Error Handling Use Case
+        - User Input Validation
+        - File Operations
+        - Network Communication
+        - API Interactions
+        - Database Access
+        - Parsing
+
+14.Types Error
+        - ArithmeticError
+        - ImportError
+        - FileNotFoundError
+        - KeyError
+        - MemoryError
+        - OSError
+        - RuntimeError
+        - SyntaxError
+
+15. Error Handling -> Catching All Exceptions
+
+
+16. Try except
+
+17. finally block
+    - For Gental User Exist or Shutdown
+    - Task Finishing Confirmation
+
+
+
+
+
